@@ -1,0 +1,7 @@
+C:\Прога\05.10.2023\Lub_5\bin\Debug\Lub_5.exe.config
+C:\Прога\05.10.2023\Lub_5\bin\Debug\Lub_5.exe
+C:\Прога\05.10.2023\Lub_5\bin\Debug\Lub_5.pdb
+C:\Прога\05.10.2023\Lub_5\obj\Debug\Lub_5.csproj.AssemblyReference.cache
+C:\Прога\05.10.2023\Lub_5\obj\Debug\Lub_5.csproj.CoreCompileInputs.cache
+C:\Прога\05.10.2023\Lub_5\obj\Debug\Lub_5.exe
+C:\Прога\05.10.2023\Lub_5\obj\Debug\Lub_5.pdb
